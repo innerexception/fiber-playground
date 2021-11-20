@@ -1,0 +1,3 @@
+interface RState {
+    boxes: number
+}

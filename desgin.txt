@@ -1,0 +1,30 @@
+MMC: Massively Multiplay Coop Venture
+Foxhole except in grimdark space
+Dawn of War except every unit is a person
+
+In the lobby, players choose responsibilities:
+    -Mechanicus, construction & manufacturing
+    -Labora, gathering & extraction
+    -Command, give objectives to squads
+    -Squads:
+        -Recon
+        -Sappers
+        -Assault
+    Squads are tethered to the squad leader (member dies if too far)
+    -Vehicles:
+        -Armor
+        -Transport
+        -Aerial
+CMDR Assigns Roles If there is a tie / too many
+
+Players can swap roles at any time if there is room
+
+Standard RTS situation start
+    -2x recon squads
+    -MCV with up to 6 Mechanicus inside
+
+RTS top view only for CMDRs, others are FPS view
+
+Prototype: Z style top down for all players, fixed camera zoomed in on non-CMDRs
+
+
