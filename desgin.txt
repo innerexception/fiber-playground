@@ -29,7 +29,7 @@ Players can build automated static defenses or drones.
 Any drone can be manned.
 
 Proto is:
-3x Squares with:
+4x Squares with:
     12x12 grid with Core + some structures
     Construction Drone w/ Turrent pattern
     Periodic Enemy seeker drones
