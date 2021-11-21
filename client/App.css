@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'Body';
-  src: url('../assets/GothicPixels.ttf')  format('truetype');
+  src: url('./assets/GothicPixels.ttf')  format('truetype');
 }
 
 @font-face {
   font-family: 'Titles';
-  src: url('../assets/GothicPixels.ttf')  format('truetype')
+  src: url('./assets/GothicPixels.ttf')  format('truetype')
 }
 
 * {
@@ -64,7 +64,7 @@ textarea:focus, input:focus{
 .rc-tooltip-inner{
   min-height: 0;
   max-width: 20em;
-  background: url(../assets/bgtile3.png);
+  background: url(./assets/bgtile3.png);
   color:white;
   border: 2px inset white;
   padding:5px;

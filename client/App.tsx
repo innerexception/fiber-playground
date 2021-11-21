@@ -4,7 +4,7 @@ import './App.css';
 import { createStore, applyMiddleware } from 'redux'
 import { Provider } from 'react-redux'
 import appReducer from './ui/UIReducer';
-import { bgTile } from '../assets/Assets';
+import { bgTile } from './assets/Assets';
 import ViewscreenFrame from './ui/ViewscreenFrame';
 const thunkMiddleware = require('redux-thunk')
 

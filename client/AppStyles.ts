@@ -1,4 +1,4 @@
-import { bgTile, bgTile2, bgTile3 } from "../assets/Assets"
+import { bgTile, bgTile2, bgTile3 } from "./assets/Assets"
 
 export const colors = {
     white: '#f3f3f3',

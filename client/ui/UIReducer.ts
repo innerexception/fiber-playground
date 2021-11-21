@@ -1,4 +1,4 @@
-import { UIReducerActions } from "../../data/enum";
+import { UIReducerActions } from "../enum";
 
 
 const appReducer = (state = getInitialState(), action:any):RState => {

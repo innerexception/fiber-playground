@@ -1,5 +1,5 @@
 import * as React from 'react'
-import { bgTile } from '../../assets/Assets'
+import { bgTile } from '../assets/Assets'
 import Viewscreen from '../webgl/Viewscreen'
 
 export default class ViewscreenFrame extends React.Component {
