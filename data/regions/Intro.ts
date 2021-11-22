@@ -1,5 +1,5 @@
 const region:RegionState = {
-    tiles: [[]],
+    tiles: [[],[],[],[]],
     id: '1',
     exitRegionIds: [],
     players: [],

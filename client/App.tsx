@@ -21,17 +21,6 @@ const styles = {
         display:'flex',
         alignItems:'center',
         justifyContent: 'center'
-    },
-    dot: {
-        height:'0.5em',
-        width:'0.5em',
-        borderRadius: '0.5em'
-    },
-    statusDot: {
-        position:'absolute' as 'absolute', bottom:'0.5em', right:'0.5em',
-        display:'flex',
-        color: 'black',
-        alignItems:'center'
     }
 }
 
