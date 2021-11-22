@@ -1,5 +1,5 @@
-import { UIReducerActions } from "../enum";
-
+import { UIReducerActions } from "../../data/enum";
+import IntroRegion from '../../data/regions/Intro'
 
 const appReducer = (state = getInitialState(), action:any):RState => {
     switch (action.type) {
@@ -14,6 +14,7 @@ export default appReducer;
 
 const getInitialState = (): RState => {
     return {
-        boxes: 3
+        region: IntroRegion,
+        myId: null
     }
 }

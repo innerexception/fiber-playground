@@ -8,7 +8,7 @@ module.exports = {
   },
   module: {
     rules: [
-        { test: /\.tsx?$/, include: path.join(__dirname, './'), loader: 'ts-loader' },
+        { test: /\.tsx?$/, include: path.join(__dirname, '../'), loader: 'ts-loader' },
         {
             test: /\.css$/,
             use: [{
